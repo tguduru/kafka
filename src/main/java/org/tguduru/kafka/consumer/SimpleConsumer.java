@@ -1,4 +1,4 @@
-package org.kafka.consumer;
+package org.tguduru.kafka.consumer;
 
 import kafka.consumer.Consumer;
 

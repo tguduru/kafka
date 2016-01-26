@@ -1,0 +1,11 @@
+{"namespace": "org.tguduru.avro.schema",
+    "type": "record",
+    "name": "Product",
+    "fields": [
+        {"name":"name", "type": "string" },
+        {"name":"description","type": "string" },
+        {"name":"price","type": "double" },
+        {"name":"productType","type": "org.tguduru.avro.schema.ProductType" }
+    ]
+
+}

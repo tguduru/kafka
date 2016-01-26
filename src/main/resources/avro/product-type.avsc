@@ -1,0 +1,6 @@
+{
+    "namespace": "org.tguduru.avro.schema",
+    "type": "enum",
+    "name": "ProductType",
+    "symbols": ["Electronics","Books","Home","Tools","Sports","Music","Auto","Grocery"]
+}
